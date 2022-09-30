@@ -15,15 +15,9 @@ Je suis maintenant freelance, mais toujours ouvert à toute proposition.
 
 ## ****Voici quelques-uns de mes petits projets personnels :****
 
-****[Rawtube](https://github.com/deldon/Rawtube)**** Clone de tiktok avec transcodage de video
-
-kampus Api de crm de gestion de centre de formation
-
 ****[youtube-dl](https://github.com/deldon/youtube-dl)**** Telecharger vos video préferai de youtube
 
 ****[rpg.io](https://github.com/deldon/rpg.io)**** Concepte de jeux en temps réel
-
-****[local-bank](https://github.com/deldon/local-bank)**** Clone de paypal pour partager de l'argant entre amis
 
 ****[Demineur](https://github.com/deldon/Demineur)**** jeux du demineur en javascript
 
