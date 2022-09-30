@@ -19,7 +19,7 @@ Je suis maintenant freelance, mais toujours ouvert à toute proposition.
 
 ****[rpg.io](https://github.com/deldon/rpg.io)**** Concepte de jeux en temps réel
 
-****[Demineur](https://github.com/deldon/Demineur)**** jeux du demineur en javascript
+****[Démineur](https://github.com/deldon/Demineur)**** jeux du demineur en javascript
 
 ## **Aussi...**
 
