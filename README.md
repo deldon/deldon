@@ -1,35 +1,35 @@
 ![cover](https://github.com/deldon/deldon/blob/main/header.png)
 # Hello :wave:
+
 Je suis un développeur JavaScript junior.
 
-Après presque six ans chez IMCA Provence en tant que formateur multimédia vidéo son , et passionnée d’électronique et de nouvelle technologie, j’ai décidé de me reconvertir et d’apprendre à développer des applications web
+Après avoir été employé six ans chez IMCA Provence en tant que formateur multimédia vidéo et son, et passionné d’électronique et de nouvelles technologies, j’ai décidé de me reconvertir et d’apprendre à développer des applications web
 
-:school: En 2021, j’ai suivi une formation de 6 mois chez Oclock pour apprendre le JavaScript et me suis spécialisé sur la partie backend (Node.js PostgreSQL).
+En 2021, j’ai suivi une formation de 6 mois chez O'clock pour apprendre le JavaScript et me suis spécialisé sur la partie backend (Node.js PostgreSQL).
 
-:mortar_board: Août 2022 j’ai obtenu le titre RNCP "Développeur Web et Web mobile” qui valide ma formation.
+En août 2022, j’ai obtenu le titre RNCP "Développeur Web et Web mobile” avec les félicitations du jury, qui valide ma formation.
 
-J’aime capitaliser sur mes confiseuses pour développer des outils métiers.
+Par le biais de mes compétences acquises par le passé, (en vidéo, son, multimédia) j'aime développer des outils métiers. 
 
-Je suis maintenant freelance, mais toujours ouvert à toute proposition.
+J'agis maintenant en freelance, mais je suis ouvert à toute proposition.
 
 
-## ****Voici quelques-uns de mes petits projets personnels :****
+## Voici quelques-uns de mes projets personnels :
 
-****[youtube-dl](https://github.com/deldon/youtube-dl)**** Telecharger vos video préferai de youtube
+****[youtube-dl](https://github.com/deldon/youtube-dl)**** Téléchargez vos vidéos préférées de youtube.
 
-****[rpg.io](https://github.com/deldon/rpg.io)**** Concepte de jeux en temps réel
+****[rpg.io](https://github.com/deldon/rpg.io)**** Concept de jeu en temps réel.
 
-****[Démineur](https://github.com/deldon/Demineur)**** jeux du demineur en javascript
 
-## **Aussi...**
+## Mes loisirs...
+J'aime l'électronique et les objets connectés (raspberry arduino).
 
-J'aime Electronique est les objet connecter (raspberry arduino).
+J'aime faire de la prise de son et du sound design.
 
-J'aime faire de la prise de son et du sound design sonor
+J'apprécie imprimer en 3D.
 
-J'apprécie imprimer en 3d 
+Restons en contact !
 
-Restons en contact
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deldon)](https://github.com/anuraghazra/github-readme-stats)
