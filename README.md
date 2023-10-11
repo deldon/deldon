@@ -1,7 +1,7 @@
 ![cover](https://github.com/deldon/deldon/blob/main/header.png)
 # Hello :wave:
 
-Je suis un développeur JavaScript junior.
+Je suis un développeur JavaScript.
 
 Après avoir été employé six ans chez IMCA Provence en tant que formateur multimédia vidéo et son, et passionné d’électronique et de nouvelles technologies, j’ai décidé de me reconvertir et d’apprendre à développer des applications web
 
